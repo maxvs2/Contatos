@@ -1,0 +1,2 @@
+Esse é um gerenciador de contatos via um banco de dados online, primeiro projeto usando a ligação do código e do banco de dados
+usando o supabase(um banco de dados online gratuito).
